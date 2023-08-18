@@ -20,7 +20,7 @@ The project uses various algorithms and methods for pattern matching in the Arab
 
 ## Tools and Dependencies
 
-The project is written using Java, J2EE, Apache Tomcat, HTML5, CSS3, JS, MYSQL.
+The project is written using Java, J2EE, Apache Tomcat, HTML5, CSS3, JS, MySQL.
 
 ## Conclusion
 
